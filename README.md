@@ -1,0 +1,2 @@
+# PatikadevSQL
+Patikadev SQL odevler
